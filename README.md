@@ -23,6 +23,12 @@ NamaForm.Show()
 - Gunakan fungsi split pada Object String, sebagai separator gunakan VbCrLf dan
 karakter spasi
 - Gunakan struktur data Nested List untuk melakukan perhitungan matriks. [Referensi](https://msdn.microsoft.com/en-us/library/6sh2ey19.aspx)
+- Untuk membuat konfirmasi MessageBox gunakan return value dari fungsi Show yang
+bertipe DialogResult
+- Untuk keluar gunakan perintah
+```vb
+Environment.Exit(0)
+```
 
 ## Cara Pengerjaan
 - Buka file tugas-2015-03.sln dalam repositori ini **jangan membuat project baru!!!**, template project menggunakan Visual
