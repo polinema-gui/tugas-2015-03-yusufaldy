@@ -9,10 +9,6 @@ Buatlah sebuah aplikasi MDI yang mempunyai dua fitur utama, yaitu:
 - Program Bintang
 - Kalkulator Matriks Sederhana
 
-Dokumentasikan alur program, dapat menggunakan flowchart atau pseudocode.
-Sertakan juga narasi bagaimana jalannya alur aplikasi dalam format file PDF
-dengan nama tugas-2015-03.pdf
-
 Contoh hasil akhir aplikasi **Perulangan.exe**
 
 ![Form](./perulangan.gif)
